@@ -10,7 +10,7 @@ Code:
 	ls -l /home/user
 Output: 
 	List of files and directories in /home/user with details.
-##Command 2 : cd - Change Directory
+## Command 2 : cd - Change Directory
 
 Syntax: 
 	cd [directory]
