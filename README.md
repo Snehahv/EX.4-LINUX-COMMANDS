@@ -3,7 +3,7 @@
 ## AIM:
 To study and execute the basis of UNIX commands
 ## COMMAND1: ls - List Files and Directories
-OUTPUT1:
+
 Syntax: 
 	ls [options] [directory]
 Code: 
@@ -19,7 +19,7 @@ Code:
 Output: 
 	Change to the /var/www directory.
 
-OUTPUT2:
+
 
 
 RESULT:
