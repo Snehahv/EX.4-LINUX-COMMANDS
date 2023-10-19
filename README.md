@@ -18,6 +18,23 @@ Code:
 	cd /var/www
 Output: 
 	Change to the /var/www directory.
+## Command 3 : pwd - Print Working Directory
+
+Syntax: 
+	pwd
+Code: 
+	pwd
+Output: 
+	/home/user (prints the current working directory).
+
+## Command 4 : mkdir - Create Directory
+
+Syntax: 
+	mkdir [directory]
+Code: 
+	mkdir my_directory
+Output:	
+	Creates a new directory named my_directory.
 
 
 
