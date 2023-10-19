@@ -3,30 +3,28 @@
 ## AIM:
 To study and execute the basis of UNIX commands
 ## COMMAND1: ls - List Files and Directories
-
 Syntax: 
 	ls [options] [directory]
 Code: 
 	ls -l /home/user
 Output: 
 	List of files and directories in /home/user with details.
-## Command 2 : cd - Change Directory
 
+## Command 2 : cd - Change Directory
 Syntax: 
 	cd [directory]
 Code: 
 	cd /var/www
 Output: 
 	Change to the /var/www directory.
-## Command 3 : pwd - Print Working Directory
 
+## Command 3 : pwd - Print Working Directory
 Syntax: 
 	pwd
 Code: 
 	pwd
 Output: 
 	/home/user (prints the current working directory).
-
 ## Command 4 : mkdir - Create Directory
 
 Syntax: 
