@@ -2,6 +2,7 @@
 
 ## AIM:
 To study and execute the basis of UNIX commands
+## Linux Commands:
 ## COMMAND1: ls - List Files and Directories
 
 Syntax: 
