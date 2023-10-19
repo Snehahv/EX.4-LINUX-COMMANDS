@@ -3,12 +3,14 @@
 ## AIM:
 To study and execute the basis of UNIX commands
 ## COMMAND1: ls - List Files and Directories
-     Syntax: 
-	touch [filename]
+
+Syntax: 
+	ls [options] [directory]
 Code: 
-	touch newfile.txt
+	ls -l /home/user
 Output: 
-	Creates a new empty file named newfile.txt.
+	List of files and directories in /home/user with details.
+    
 ## Command 2 : cd - Change Directory
 Syntax: 
 	cd [directory]
