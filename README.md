@@ -35,7 +35,6 @@ Output:
 ``` 
 ## Command 4 : mkdir - Create Directory
 ```
-
 Syntax: 
 	mkdir [directory]
 Code: 
